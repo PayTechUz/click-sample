@@ -1,4 +1,4 @@
-# Click Implementation
+# 🔵 Click Implementation
 
 Support Group - <a href="https://t.me/+bYouuOlqt1c3NmYy">Telegram</a><br>
 YouTube - <a href="https://www.youtube.com/@paytechuz"> Watch Video</a> (coming soon)<br>
@@ -14,7 +14,7 @@ This MVP project helps to implement <a href="https://github.com/PayTechUz/click-
 
   ```json
   {
-    "link": "https://my.click.uz/services/pay?service_id=12345&merchant_id=12345&amount=500&transaction_param=1",
+    "link": "https://my.click.uz/services/pay?service_id=12345&merchant_id=12345&amount=500&transaction_param=12",
     "status": false
   }
   ```
@@ -75,3 +75,8 @@ This MVP project helps to implement <a href="https://github.com/PayTechUz/click-
   ```shell
   python manage.py runserver
   ```
+
+# Thanks
+
+- [begyy/ClickUz](https://github.com/begyy/ClickUz)
+- [click-llc/click-integration-django](https://github.com/click-llc/click-integration-django)
