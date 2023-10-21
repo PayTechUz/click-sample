@@ -25,11 +25,11 @@ This MVP project helps to implement <a href="https://github.com/PayTechUz/click-
 
 ### Swagger
 
-![image](https://github.com/PayTechUz/click-sample/assets/73847672/c4546bb8-531c-4b2a-99a8-fa5da4935ac2)
+![image](https://github.com/PayTechUz/click-sample/assets/73847672/b7bb03e7-5b9f-4a14-acf3-abad39ccd860)
 
 ### ClickUz Application Test
 
-![image](https://github.com/PayTechUz/click-sample/assets/73847672/4964c951-a48c-4291-b615-5ddc007fd5ef)
+![image](https://github.com/PayTechUz/click-sample/assets/73847672/4af8a823-8e26-4324-b20b-be42901ddaa5)
 
 # Installation
 
