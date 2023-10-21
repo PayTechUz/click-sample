@@ -63,7 +63,7 @@ class MyView(ClickUzMerchantAPIView):
 
         return Response(
             {
-                "link": ClickUz.generate_url(order.pk, order.amount, return_url),
+                "link": ClickUz.generate_url(order.order_id, order.amount, return_url),
                 "status": order.status
             }
         )
